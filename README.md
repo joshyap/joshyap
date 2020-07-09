@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💬 Ask me about:
+- web development
+- data engineering
+- personal finance
+- super smash bros
+
+🔭 I’m currently working on:
+- Frontend Masters learning path
+- freeCodeCamp response web design certification
+- a personal project using AWS lambda, node.js, and the twitter api
+
+📫 How to reach me:
+- joshua.c.yap@gmail.com
+- [linkedin](https://www.linkedin.com/in/joshuacyap/)
+- [twitter](https://twitter.com/J0SHYAP)
