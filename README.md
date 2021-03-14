@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - data engineering
 - personal finance
 - super smash bros
+- chess
 
 🔭 I’m currently working on:
 - Frontend Masters learning path
